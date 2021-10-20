@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630425893342.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "645FF00B",
+    "lastKnownWriteTime" : 1630371194,
+    "last_content_update" : 1630371194,
+    "path" : "C:/Dropbox/Discussing/2021/NBER/2/barboni_comparison/scripts/barboni_comparison_graph.R",
+    "project_path" : "scripts/barboni_comparison_graph.R",
+    "properties" : {
+        "cursorPosition" : "22,10",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
