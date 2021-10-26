@@ -1,2 +1,4 @@
 data/*
 proc/*
+.Rproj.user/*
+.Rhistory

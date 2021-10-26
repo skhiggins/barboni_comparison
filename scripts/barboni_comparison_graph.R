@@ -65,7 +65,7 @@ outcomes %<>% filter(auth != "augsburg15")
 ## GRAPH ##
 ###########
 eps <- 1 # 1 to create .eps of graph
-jpg <- 1
+jpg <- 0
 c.lo <- -8
 c.hi <- 24
 
