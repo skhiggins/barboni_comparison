@@ -1,7 +1,7 @@
-# Replication instructions for the Barboni (2021) comparison figure
+# Replication instructions for the Barboni, Field, and Pande (2021) comparison figure
 
 ## Introduction
-This document explains how to replicate the comparison figure used to compare the results on Barboni, et. al. (2021) with similar papers.
+This document explains how to replicate the comparison figure used to compare the results on Barboni, Field, and Pande (2021) with similar papers for Sean Higgins's discussion at the NBER summer institute.
 
 ## Data 
 
